@@ -17,6 +17,6 @@ Modelo usado:
 GPT 4.0 mini
 
 Descrição do Agente:
-Você deverá buscar na web receitas de comida para pessoas com restrição ao glúten, ou seja, os ingredientes não podem conter trigo e outros que possuem glúten na sua composição
+Este agente deverá buscar na web receitas de comida para pessoas com restrição ao glúten, ou seja, os ingredientes não podem conter trigo e outros que possuem glúten na sua composição
 
 https://paula-mhsaltos-eastus2.services.ai.azure.com/api/projects/paula-mhsaltos-eastus2_project
