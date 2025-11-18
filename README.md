@@ -26,8 +26,9 @@ Projeto no Azure AI Foundry criado
 paula-mhsaltos-eastus2_project
 
 Agente criado
-AgenteChallenge
-![PrintAgente](
+AgenteChallenge  
+![PrintAgente](AZ_Agente.png)  
+
 
 Modelo usado:
 GPT 4.1 mini
