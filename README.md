@@ -1,7 +1,10 @@
 # AgenteSemGluten
 Azure Frontier Girls – Challenger Criação de um agente AI
+
 Aluna: Paula Betcher Bortolai
+
 e-mail: paulabbp@msn.com
+
 Data: 16/11/2025
 
 Requisitos para Elegibilidade
