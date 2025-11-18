@@ -27,6 +27,7 @@ paula-mhsaltos-eastus2_project
 
 Agente criado
 AgenteChallenge
+![PrintAgente](
 
 Modelo usado:
 GPT 4.1 mini
