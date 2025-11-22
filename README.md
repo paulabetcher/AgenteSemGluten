@@ -8,16 +8,18 @@ e-mail: paulabbp@msn.com
 Data: 16/11/2025
 
 Requisitos para Elegibilidade
+
 O repositório da participante deve conter:
-•	Repositório público no GitHub com nome do agente
-•	README completo, incluindo:
-o	Descrição do projeto e objetivo do agente
-o	Prints de respostas, fluxo e execução
-o	Links de referências (Foundry, Power Automate, etc.)
-•	Agente funcional no Foundry, com:
-o	Pelo menos 1 ação funcional (ex.: cálculo, busca ou automação simples)
-•	Entrega dentro do prazo
-o	Prazo para entrega 21/11/2025 as 23:59
+
+  -	Repositório público no GitHub com nome do agente
+  -	README completo, incluindo:
+    -	Descrição do projeto e objetivo do agente
+    -	Prints de respostas, fluxo e execução
+    - Links de referências (Foundry, Power Automate, etc.)
+  -	Agente funcional no Foundry, com:
+    -	Pelo menos 1 ação funcional (ex.: cálculo, busca ou automação simples)
+  -	Entrega dentro do prazo
+    -	Prazo para entrega 21/11/2025 as 23:59
 
 Grupo de recursos criado
 rg-azurefoundry
