@@ -27,7 +27,9 @@ rg-azurefoundry
 
 Projeto no Azure AI Foundry criado
 paula-mhsaltos-eastus2_project  
-![PrintAgente](AZ_Agente.png)
+https://paula-mhsaltos-eastus2.services.ai.azure.com/api/projects/paula-mhsaltos-eastus2_project  
+
+![PrintAgente](PrintAgenteModelo_PontoExtremidade.png)
 
 Agente criado
 AgenteChallenge  
@@ -37,6 +39,9 @@ AgenteChallenge
 Modelo usado:
 GPT 4.1 mini
 
+
+
+
 Descrição do Agente:
 Ser uma pessoa intolerante a glúten é ter dificuldade em digerir o glúten, uma proteína encontrada em cereais como trigo, cevada e centeio. Essa condição causa desconforto e sintomas variados, como inchaço abdominal, gases, diarreia ou constipação, dores de cabeça e fadiga
 O agente irá ajudar estas pessoas com restrição ao glúten a buscar receitas de comida sem a presença do glúten, ou seja, os ingredientes não podem conter trigo, cevada, centeio e outros que possuem glúten na sua composição. 
@@ -44,7 +49,11 @@ Pois comer fora nem sempre os estabelecimentos não se importam com esta situaç
 
 Objetivo do Projeto:  
 
-Abaixo os prints das telas dos testes realizados no Playgound do Foundry.  
-![PrintAgente](AZ_Agente.png)
+Playgound do Foundry.  
+![PrintAgente](PrintPlaygroundAgente.png)  
 
-https://paula-mhsaltos-eastus2.services.ai.azure.com/api/projects/paula-mhsaltos-eastus2_project
+O assistente de IA busca a receita de pão sem glúten  
+![PrintAgente](PrintPlaygroundAgente2.png)    
+
+O assistente de IA traz a referência da receita 
+![PrintAgente](PrintPlaygroundAgente3.png)    
