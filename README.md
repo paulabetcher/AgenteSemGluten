@@ -23,7 +23,7 @@ O repositório da participante deve conter:
 
 Grupo de recursos criado
 rg-azurefoundry  
-![PrintAgente](AZ_Agente.png)
+![PrintAgente](PrintGrupoRecurso.png)
 
 Projeto no Azure AI Foundry criado
 paula-mhsaltos-eastus2_project  
