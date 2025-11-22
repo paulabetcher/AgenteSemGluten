@@ -35,6 +35,7 @@ Agente criado
 AgenteChallenge  
 ![PrintAgente](PrintAgenteModelo_Conhecimento1.png)    
 
+![PrintAgente](PrintAgenteModelo_Conhecimento.png)    
 
 Modelo usado:
 GPT 4.1 mini
@@ -60,6 +61,10 @@ O assistente de IA traz a referência da receita
 ![PrintAgente](PrintPlaygroundAgente2.png)    
 
 Foi solicitado uma receita de noque não existente no PDF e o agente foi capaz se mostrar uma receita respeitando a condição solicitada sem glúten.   
-![PrintAgente](PrintPlayNoque.png)      
-![PrintAgente](PrintPlayNoque1.png)      
-![PrintAgente](PrintPlayNoque1.png)     
+
+![PrintAgente](PrintPlay_Noque.png)  
+
+![PrintAgente](PrintPlay_Noque1.png)  
+
+![PrintAgente](PrintPlay_Noque1.png)   
+
