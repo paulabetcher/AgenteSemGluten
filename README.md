@@ -19,7 +19,7 @@ O repositório da participante deve conter:
   -	Agente funcional no Foundry, com:
     -	Pelo menos 1 ação funcional (ex.: cálculo, busca ou automação simples)
   -	Entrega dentro do prazo
-    -	Prazo para entrega 24/11/2025 as 23:59
+    -	Prazo para entrega 23/11/2025 as 23:59
 
 Grupo de recursos criado
 rg-azurefoundry  
@@ -41,6 +41,8 @@ Descrição do Agente:
 Ser uma pessoa intolerante a glúten é ter dificuldade em digerir o glúten, uma proteína encontrada em cereais como trigo, cevada e centeio. Essa condição causa desconforto e sintomas variados, como inchaço abdominal, gases, diarreia ou constipação, dores de cabeça e fadiga
 O agente irá ajudar estas pessoas com restrição ao glúten a buscar receitas de comida sem a presença do glúten, ou seja, os ingredientes não podem conter trigo, cevada, centeio e outros que possuem glúten na sua composição. 
 Pois comer fora nem sempre os estabelecimentos não se importam com esta situação e servem refeições com glúten e assim as pessoas são incentivas a confeccionar sua própria refeição.
+
+Objetivo do Projeto:  
 
 Abaixo os prints das telas dos testes realizados no Playgound do Foundry.  
 ![PrintAgente](AZ_Agente.png)
