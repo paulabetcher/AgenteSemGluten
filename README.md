@@ -33,8 +33,9 @@ https://paula-mhsaltos-eastus2.services.ai.azure.com/api/projects/paula-mhsaltos
 
 Agente criado
 AgenteChallenge  
-![PrintAgente](AZ_Agente.png)  
+![PrintAgente](PrintAgenteModelo_Conhecimento1.png)    
 
+![PrintAgente](PrintAgenteModelo_Conhecimento.png)    
 
 Modelo usado:
 GPT 4.1 mini
