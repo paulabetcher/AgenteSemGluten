@@ -53,7 +53,7 @@ Playgound do Foundry.
 ![PrintAgente](PrintPlaygroundAgente.png)  
 
 O assistente de IA busca a receita de pão sem glúten  
-![PrintAgente](PrintPlaygroundAgente2.png)    
+![PrintAgente](PrintPlaygroundAgente3.png)    
 
 O assistente de IA traz a referência da receita 
-![PrintAgente](PrintPlaygroundAgente3.png)    
+![PrintAgente](PrintPlaygroundAgente2.png)    
