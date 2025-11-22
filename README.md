@@ -62,9 +62,9 @@ O assistente de IA traz a referência da receita
 
 Foi solicitado uma receita de noque não existente no PDF e o agente foi capaz se mostrar uma receita respeitando a condição solicitada sem glúten.   
 
-![PrintAgente](PrintPlay_Noque.png)  
-
 ![PrintAgente](PrintPlay_Noque1.png)  
 
-![PrintAgente](PrintPlay_Noque1.png)   
+![PrintAgente](PrintPlay_Noque2.png)  
+
+![PrintAgente](PrintPlay_Noque3.png)   
 
