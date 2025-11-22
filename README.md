@@ -35,7 +35,6 @@ Agente criado
 AgenteChallenge  
 ![PrintAgente](PrintAgenteModelo_Conhecimento1.png)    
 
-![PrintAgente](PrintAgenteModelo_Conhecimento.png)    
 
 Modelo usado:
 GPT 4.1 mini
